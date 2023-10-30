@@ -30,4 +30,6 @@ public class BirdScript : MonoBehaviour
 		logic.GameOver();
 		birdAlive = false;
 	}
+
+	//Richard was here
 }
